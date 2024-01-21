@@ -6,4 +6,4 @@ I will be hosting the project at (url to come).
 
 ## Contents
 
-This will be mostly a bunch of code snippets and what they do, as well as notes to myself for future reference.
+A bunch of code snippets + code running live, plus my notes.
