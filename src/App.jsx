@@ -17,20 +17,17 @@ function App() {
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
       </div>
-      <h1>Lisa Wall's Sandbox<br />to play around with React</h1>
+      <h1>Lisa's Sandbox<br />to play around with React</h1>
       <p>For development, build and deploy I'm using Vite. <img src={viteLogo} className="logo vite" alt="Vite logo" /></p>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           Hit count: {count}
         </button>
+        <Button>My Button Component</Button>
+
         
-        <p>
-          Edit <code>src/App.jsx</code> and save to test HMR
-        </p>
       </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
+
     </>
   )
 }

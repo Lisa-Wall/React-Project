@@ -67,7 +67,7 @@ button:focus-visible {
   }
 }
 
-// My addition
+/* My addition */
 :root{
     --primary: #4CAF50;
     --secondary: #FFC107;
