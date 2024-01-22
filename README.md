@@ -1,6 +1,8 @@
 # React-Project
 
-A place for me to play around with React.
+A sandbox for me to play around with React.
+
+For development, build and deploy I'm using Vite.
 
 I will be hosting the project at (url to come).
 
