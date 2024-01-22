@@ -17,7 +17,8 @@ function App() {
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
       </div>
-      <h1>Playing around with React</h1>
+      <h1>Lisa Wall's Sandbox<br />to play around with React</h1>
+      <p>For development, build and deploy I'm using Vite. <img src={viteLogo} className="logo vite" alt="Vite logo" /></p>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           Hit count: {count}

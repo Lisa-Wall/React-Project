@@ -17,6 +17,10 @@
 .logo.react:hover {
   filter: drop-shadow(0 0 2em #61dafbaa);
 }
+.logo.vite {
+  height: 2em;
+  padding: 0;
+}
 
 @keyframes logo-spin {
   from {
