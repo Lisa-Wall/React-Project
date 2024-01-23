@@ -6,7 +6,7 @@ The tutorial is hosted here: (https://lcchomes.com/other/react/dist/).
 
 ## Contents
 
-This tutorial explains the central concepts of React and demonstrates them using code snippts and live code showing what they do. Concepts covered: 
+This tutorial explains the central concepts of React and demonstrates them using code snippets and live code showing what they do. Concepts covered: 
 
 * Components
 * JSX
