@@ -97,7 +97,7 @@ function App() {
 
       <pre class="code"><code class="code">{importHook}</code></pre>
 
-      <p class="long-body">Then, inside our component, we initialize the state. The first parameter holds the current state, and the second is the function used to update the state. This example also sets a default value of 0.</p>
+      <p class="long-body">Then, inside our component we initialize the state. The first parameter holds the current state, and the second is the function used to update the state. This example also sets a default value of 0.</p>
 
       <pre class="code"><code class="code">{initializeState}</code></pre>
 
