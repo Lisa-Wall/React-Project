@@ -44,3 +44,21 @@
 .read-the-docs {
   color: #888;
 }
+
+.code
+{
+  background: #f6f4f4;
+  font-size:large;
+  text-align: left;
+  
+}
+
+.container
+{
+  width: 50%;
+  margin: auto;
+}
+
+p.long-body {
+  text-align: justify;
+}
